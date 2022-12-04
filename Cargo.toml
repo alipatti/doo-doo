@@ -7,4 +7,14 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+chrono = { version = "0.4.23", features = ["serde"] }
 clap = { version = "4.0.29", features = ["derive"] }
+console = "0.15.2"
+dialoguer = { version = "0.10.2" }
+dirs = "4.0.0"
+fuzzy-matcher = "0.3.7"
+humantime = "2.1.0"
+pulldown-cmark = "0.9.2"
+serde = { version = "1.0.148", features = ["derive"] }
+serde_yaml = "0.9.14"
+termsize = "0.1.6"
