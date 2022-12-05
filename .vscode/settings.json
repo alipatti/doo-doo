@@ -2,8 +2,10 @@
   "cSpell.words": [
     "chrono",
     "cmark",
+    "datetime",
     "dialoguer",
     "humantime",
+    "ripgrep",
     "termsize"
   ]
 }

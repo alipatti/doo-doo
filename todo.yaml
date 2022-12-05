@@ -1,7 +1,11 @@
+- title: urgent!
+  details: null
+  due: 2022-12-04T16:47:28.098098-06:00
+  completed: false
 - title: mow lawn
   details: null
   due: null
-  completed: false
+  completed: true
 - title: email jeff
   details: null
   due: null
@@ -10,7 +14,3 @@
   details: null
   due: null
   completed: true
-- title: urgent!
-  details: null
-  due: 2022-12-04T16:47:28.098098-06:00
-  completed: false
